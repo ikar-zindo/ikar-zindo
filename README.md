@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ikar-zindo&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ikar-zindo)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ikar-zindo&show_icons=true&theme=tokyonight)
 
