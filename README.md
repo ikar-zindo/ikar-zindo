@@ -2,7 +2,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ikar-zindo&hide_progress=true)
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ikar-zindo)](https://github.com/ikar-zindo/kcj-customer-be)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ikar-zindo&show_icons=true&theme=dark)
 
 <!--
 **ikar-zindo/ikar-zindo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
