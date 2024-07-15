@@ -2,7 +2,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ikar-zindo&hide_progress=true)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ikar-zindo&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ikar-zindo&show_icons=true&theme=tokyonight)
 
 <!--
 **ikar-zindo/ikar-zindo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
