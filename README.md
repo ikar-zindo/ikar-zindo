@@ -24,7 +24,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ikar-zindo&layout=compact)
 
-- 🔭 I’m currently working on time-tracking
+- 🔭 I’m currently working on [time-tracking](https://github.com/ikar-zindo/time-tracking)
 - 🌱 I’m currently learning AWS, Fortran
 - 🤔 I’m looking for help with Git, K8s
 
