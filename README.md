@@ -4,7 +4,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=java,spring,maven,hibernate,fortran&theme=dark)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=kubernetes,docker,aws,gcp,firebase,github&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=kubernetes,docker,aws,gcp,github&theme=dark)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,npm,vite,redux&theme=dark)](https://skillicons.dev)
 
@@ -21,6 +21,8 @@
 ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ikar-zindo&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ikar-zindo&layout=compact)
 
 - 🔭 I’m currently working on time-tracking
 - 🌱 I’m currently learning AWS, Fortran
