@@ -20,9 +20,11 @@
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white)
 
+### <img src="https://em-content.zobj.net/source/telegram/386/mobile-phone-with-arrow_1f4f2.webp" alt="mobile-phone" width="25" height="25" /> Hit me up! [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ivan--burieiev/)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ikar-zindo&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ikar-zindo&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ikar-zindo&layout=compact) <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2o2NHZqazNnY2I1OGhseml0ZG94ZzJpN3A5N2tvcnZqZnlla2U2cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WUlplcMpOCEmTGBtBW/giphy.webp" width="250" height="150" />
 
 - 🔭 I’m currently working on [time-tracking](https://github.com/ikar-zindo/time-tracking)
 - 🌱 I’m currently learning AWS, Fortran
