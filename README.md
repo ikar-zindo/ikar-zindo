@@ -6,7 +6,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=kubernetes,docker,aws,gcp,github&theme=dark)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,npm,vite,redux&theme=dark)](https://skillicons.dev)
+<!-- [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,npm,vite,redux&theme=dark)](https://skillicons.dev) -->
 
 [![My Skills](https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,&theme=dark)](https://skillicons.dev)
 
