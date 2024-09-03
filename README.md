@@ -22,7 +22,7 @@
 <!-- ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) -->
 <!-- ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white) -->
 
-### <img src="https://em-content.zobj.net/source/telegram/386/mobile-phone-with-arrow_1f4f2.webp" alt="mobile-phone" width="25" height="25" /> Hit me up! [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ivan--burieiev/)
+### <img src="https://em-content.zobj.net/source/telegram/386/mobile-phone-with-arrow_1f4f2.webp" alt="mobile-phone" width="25" height="25" /> Hit me up! [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ivan--bukrieiev/)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ikar-zindo&show_icons=true&theme=tokyonight)
 
