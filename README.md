@@ -1,24 +1,26 @@
 ## Hi there 👋
 
-[![My Skills](https://skillicons.dev/icons?i=windows,linux,ubuntu,bash,powershell&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,mysql,firebase,kubernetes,docker,aws,fortran&theme=dark)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,maven,hibernate,fortran&theme=dark)](https://skillicons.dev)
+<!-- [![My Skills](https://skillicons.dev/icons?i=windows,linux,ubuntu,bash,powershell&theme=dark)](https://skillicons.dev) -->
 
-[![My Skills](https://skillicons.dev/icons?i=kubernetes,docker,aws,gcp,github&theme=dark)](https://skillicons.dev)
+<!-- [![My Skills](https://skillicons.dev/icons?i=java,spring,maven,hibernate,fortran&theme=dark)](https://skillicons.dev) -->
+
+<!-- [![My Skills](https://skillicons.dev/icons?i=kubernetes,docker,aws,gcp,github&theme=dark)](https://skillicons.dev) -->
 
 <!-- [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,npm,vite,redux&theme=dark)](https://skillicons.dev) -->
 
-[![My Skills](https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,&theme=dark)](https://skillicons.dev)
+<!-- [![My Skills](https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,&theme=dark)](https://skillicons.dev) -->
 
-[![My Skills](https://skillicons.dev/icons?i=idea,vscode,postman,md,notion,arduino,discord&theme=dark)](https://skillicons.dev)
+<!-- [![My Skills](https://skillicons.dev/icons?i=idea,vscode,postman,md,notion,arduino,discord&theme=dark)](https://skillicons.dev) -->
 
-![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515)
-![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=black)
-![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+<!-- ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) -->
+<!-- ![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515) -->
+<!-- ![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=black)  -->
+<!-- ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) -->
 
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white)
+<!-- ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) -->
+<!-- ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white) -->
 
 ### <img src="https://em-content.zobj.net/source/telegram/386/mobile-phone-with-arrow_1f4f2.webp" alt="mobile-phone" width="25" height="25" /> Hit me up! [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ivan--burieiev/)
 
