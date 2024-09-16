@@ -28,7 +28,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ikar-zindo&layout=compact) <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2o2NHZqazNnY2I1OGhseml0ZG94ZzJpN3A5N2tvcnZqZnlla2U2cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WUlplcMpOCEmTGBtBW/giphy.webp" width="250" height="150" />
 
-- 🔭 I’m currently working on [time-tracking](https://github.com/ikar-zindo/time-tracking)
+- 🔭 I’m currently working on [gastro-sos-fe](https://github.com/ikar-zindo/gastro-sos-fe)
 - 🌱 I’m currently learning AWS, Fortran
 - 🤔 I’m looking for help with Git, K8s
 
